@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example YinYong Blog</title><link>https://cening.github.io/cn/</link><description>Recent content on Example YinYong Blog</description><generator>Hugo -- gohugo.io</generator><language>cn</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cening.github.io/cn/index.xml" rel="self" type="application/rss+xml"/><item><title>markdown语法</title><link>https://cening.github.io/cn/posts/cn3/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://cening.github.io/cn/posts/cn3/</guid><description>Markdown语法 一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 任务列表 任务一 未做任务 - + 空格 + [ ] 任务二 已做任务 - + 空格 + [x] 首行缩进 【1】 或 //全角
+【2】 或 //半角
+【3】 或 //半角之半角
+对齐方式 （支持部分html语法） 斜体 或 斜体
+粗体
+加粗斜体
+删除线
+++下划线++
+==背景高亮==
+超链接、页内链接、自动链接、注脚 行内式 欢迎阅读 择势勤
+参考式 我经常去的几个网站Google、Leanote。
+注脚 使用 Markdown1可以效率的书写文档, 直接转换成 HTML2。
+无序列表、有序列表、定义型列表 无序列表项 一 无序列表项 二 无序列表项 三 无序列表项 一 有序列表项 一 有序列表项 二 有序列表项 三 [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-arlPPq45-1611799626901)(picture/2021-01-27-15-35-30.png)] vscode贴图 [hexo显示图片]https://blog.</description></item><item><title>赤壁赋</title><link>https://cening.github.io/cn/posts/cn/</link><pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate><guid>https://cening.github.io/cn/posts/cn/</guid><description>原文 壬戌之秋，七月既望，蘇子與客泛舟遊於赤壁之下。清風徐來，水波不興。舉酒屬客，誦明月之詩，歌窈窕之章。少焉，月出於東山之上，徘徊於斗牛之間。白露橫江，水光接天。縱一葦之所如，凌萬頃之茫然。浩浩乎如馮虛御風，而不知其所止；飄飄乎如遺世獨立,羽化而登仙。
+於是飲酒樂甚，扣舷而歌之。歌曰：“桂棹兮蘭槳，擊空明兮溯流光。渺渺兮予懷，望美人兮天一方。”客有吹洞簫者，倚歌而和之。其聲嗚嗚然，如怨如慕，如泣如訴；餘音嫋嫋，不絕如縷。舞幽壑之潛蛟，泣孤舟之嫠婦。
+蘇子愀然，正襟危坐，而問客曰：“何爲其然也？”客曰：“‘月明星稀，烏鵲南飛。’此非曹孟德之詩乎？西望夏口，東望武昌，山川相繆，鬱乎蒼蒼，此非孟德之困於周郎者乎？方其破荊州，下江陵，順流而東也，舳艫千里，旌旗蔽空，釃酒臨江，橫槊賦詩，固一世之雄也，而今安在哉？況吾與子漁樵於江渚之上，侶魚蝦而友麋鹿，駕一葉之扁舟，舉匏樽以相屬。寄蜉蝣於天地，渺滄海之一粟。哀吾生之須臾，羨長 江之無窮。挾飛仙以遨遊，抱明月而長終。知不可乎驟得，託遺響於悲風。”
+蘇子曰：“客亦知夫水與月乎？逝者如斯，而未嘗往也；盈虛者如彼，而卒莫消長也。蓋將自其變者而觀之，則天地曾不能以一瞬；自其不變者而觀之，則物與我皆無盡也，而又何羨乎！且夫天地之間，物各有主，苟非吾之所有，雖一毫而莫取。惟江上之清風，與山間之明月，耳得之而爲聲，目遇之而成色，取之無禁，用之不竭。是造物者之無盡藏也，而吾與子之所共適。”(共適 一作：共食) 客喜而笑，洗盞更酌。餚核既盡，杯盤狼籍。相與枕藉乎舟中，不知東方之既白。</description></item></channel></rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on Example YinYong Blog</title><link>https://cening.github.io/cn/categories/markdown/</link><description>Recent content in markdown on Example YinYong Blog</description><generator>Hugo -- gohugo.io</generator><language>cn</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cening.github.io/cn/categories/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>markdown语法</title><link>https://cening.github.io/cn/posts/cn3/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://cening.github.io/cn/posts/cn3/</guid><description>Markdown语法 一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 任务列表 任务一 未做任务 - + 空格 + [ ] 任务二 已做任务 - + 空格 + [x] 首行缩进 【1】 或 //全角
+【2】 或 //半角
+【3】 或 //半角之半角
+对齐方式 （支持部分html语法） 斜体 或 斜体
+粗体
+加粗斜体
+删除线
+++下划线++
+==背景高亮==
+超链接、页内链接、自动链接、注脚 行内式 欢迎阅读 择势勤
+参考式 我经常去的几个网站Google、Leanote。
+注脚 使用 Markdown1可以效率的书写文档, 直接转换成 HTML2。
+无序列表、有序列表、定义型列表 无序列表项 一 无序列表项 二 无序列表项 三 无序列表项 一 有序列表项 一 有序列表项 二 有序列表项 三 [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-arlPPq45-1611799626901)(picture/2021-01-27-15-35-30.png)] vscode贴图 [hexo显示图片]https://blog.</description></item></channel></rss>
